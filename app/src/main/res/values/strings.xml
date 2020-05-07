@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Toko Komputer</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Favorit</string>
+    <string name="title_cart">Keranjang</string>
+    <string name="title_profile">Profil</string>
+    <string-array name="jasa_pengiriman">
+        <item>JNE</item>
+        <item>J&amp;T</item>
+        <item>TIKI</item>
+        <item>POS</item>
+    </string-array>
+    <string-array name="BANK">
+        <item>BRI</item>
+        <item>BCA</item>
+        <item>MANDIRI</item>
+    </string-array>
+</resources>
